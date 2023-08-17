@@ -1,0 +1,30 @@
+body{
+    background-color: aqua;
+}
+#headerSection{
+    padding: 20px;
+    width: 30%;
+    background-color: blueviolet;
+}
+#headerSection h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgba(59, 236, 5, 0.986);
+}
+input{
+    padding: 10px;
+    border-radius: 5px;
+}
+input placeholder{
+    color: darkblue;
+}
+#dropbox{
+    padding: 10px;
+    border-radius: 5px;
+    width: 15%;
+}
+#loginbutton{
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+    background-color: blue;
+}
